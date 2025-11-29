@@ -1,0 +1,31 @@
+===== STUDENT DETAILS =====
+Roll: 12
+ Name: 
+ Branch: PêÈuÔ»é„þÿAIML
+ Marks: 98.00
+-------------------------
+Roll: 1
+ Name: 
+ Branch: PêÈu‚‹£õþÿaiml
+ Marks: 99.00
+-------------------------
+Roll: 2
+ Name: lohith
+ Branch: PêÈu‚‹£õþÿise
+ Marks: 90.00
+-------------------------
+Roll: 3
+ Name: siddanth
+ Branch: PêÈu‚‹£õþÿcse
+ Marks: 95.00
+-------------------------
+Roll: 11
+ Name: nandhu
+ Branch: PêÈuíúéþÿaiml
+ Marks: 100.00
+-------------------------
+Roll: 12
+ Name: lohith
+ Branch: PêÈuíúéþÿise
+ Marks: 99.00
+-------------------------
